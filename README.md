@@ -1,24 +1,14 @@
-# taskhub
+## 概要
+Taskhub
 
-## Project setup
-```
-npm install
-```
+## 詳細
+登録したタスクを編集、削除、検索ができるtodoアプリです。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 開発の経緯
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 使用した技術の選定理由
+モダンなフレームワークを使い、
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 作品URL
+https://task-hub-21e98.web.app/
